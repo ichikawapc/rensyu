@@ -1,2 +1,1 @@
-test-siteのURL
-https://ichikawa-programming-circle.github.io/rensyu/bomu/test-site/
+test-siteのURL　https://ichikawa-programming-circle.github.io/rensyu/bomu/test-site/
