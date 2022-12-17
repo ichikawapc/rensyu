@@ -6,3 +6,4 @@
 - 「ringosu」  https://ichikawa-programming-circle.github.io/rensyu/ringosu/
 - 「bomu」https://ichikawa-programming-circle.github.io/rensyu/bomu/
 - 「sakki」https://ichikawa-programming-circle.github.io/rensyu/sakki/
+- 「umi」https://ichikawa-programming-circle.github.io/rensyu/umi/
