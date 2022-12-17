@@ -12,8 +12,8 @@ h1 {
 
 
 html {
-  font-size: 1000px; /* px means "pixels": the base font size is now 10 pixels high  */
-  font-family: "Nico Moji"; /* this should be the rest of the output you got from Google fonts */
+  font-size: 100px; /* px means "pixels": the base font size is now 10 pixels high  */
+  font-family: "Nico Moji", sans-serif; /* this should be the rest of the output you got from Google fonts */
 }
 
 
