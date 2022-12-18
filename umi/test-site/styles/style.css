@@ -4,12 +4,12 @@ html {
 }
 
 h1 {
-  font-size: 60px;
-  text-align: center;
+  font-size: 150px;
+  text-align: left;
 }
 
 p, li {
-  font-size: 16px;
-  line-height: 2;
-  letter-spacing: 1px;
+  font-size: 100px;
+  line-height: 10;
+  letter-spacing: 10px;
 }
