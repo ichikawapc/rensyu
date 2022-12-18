@@ -13,3 +13,15 @@ p, li {
   line-height: 10;
   letter-spacing: 10px;
 }
+
+p {
+  color: blue;
+}
+
+li {
+  color: blue;
+}
+
+h1 {
+  color: blue;
+}
