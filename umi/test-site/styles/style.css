@@ -3,17 +3,6 @@ html {
   font-family: "Nico Moji", sans-serif; /* this should be the rest of the output you got from Google fonts */
 }
 
-h1 {
-  font-size: 150px;
-  text-align: left;
-}
-
-p, li {
-  font-size: 100px;
-  line-height: 10;
-  letter-spacing: 10px;
-}
-
 p {
   color: blue;
 }
