@@ -1,10 +1,13 @@
 p {
   color: red;
-  display: inline-block;
-  text-align: left;
+  width: 150px;
   border: 1px solid black;
 }
 
-li, h1 {
-  color: green;
+h1 {
+  color: blue;
+}
+
+li {
+  color: black;
 }
