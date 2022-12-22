@@ -1,5 +1,9 @@
 p {
   color: red;
-  display :inline-block;
+  display: inline-block;
   border: 1px solid black;
-　　　　}
+}
+
+li, h1 {
+  color: red;
+}
