@@ -4,7 +4,11 @@ p, h1, li {
   width: calc(100% - 50px);
 }
 
-
+br{
+  color: orange; 
+  background-color: light blue;
+  width: calc(100%);
+}
 
 
 html {
