@@ -1,11 +1,11 @@
 p, h1, li {
   color: orange; 
   background-color: pink;
-  width: calc(100% - 50px);
+  width: calc(100% - 50%);
 }
 
-br{
-  color: orange; 
+br {
+  color: orange;      
   background-color: light blue;
   width: calc(100%);
 }
