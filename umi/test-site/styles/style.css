@@ -11,3 +11,8 @@ h1 {
 li {
   color: black;
 }
+
+html {
+  font-size: 10px; /* px means "pixels": the base font size is now 10 pixels high  */
+  font-family: "Hannari", sans-serif; /* this should be the rest of the output you got from Google fonts */
+}
