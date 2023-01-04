@@ -4,14 +4,10 @@ p, h1, li {
   width: calc(100% - 50%);
 }
 
-br {
-  color: orange;      
-  background-color: light blue;
-  width: calc(100%);
-}
+
 
 body {
-  background-color: light blue;
+  background-color: blue;
 }
 
 
