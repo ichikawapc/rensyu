@@ -10,6 +10,10 @@ br {
   width: calc(100%);
 }
 
+body {
+  background-color: light blue;
+}
+
 
 html {
   font-size: 20px; /* px means "pixels": the base font size is now 10 pixels high  */
