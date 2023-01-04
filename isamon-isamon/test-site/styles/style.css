@@ -14,6 +14,10 @@ body {
 }
 
 
+a[href]{
+ color: red; 
+}
+
 html {
   font-size: 20px; /* px means "pixels": the base font size is now 10 pixels high  */
   font-family: "Nico Moji", sans-serif; /* this should be the rest of the output you got from Google fonts */
