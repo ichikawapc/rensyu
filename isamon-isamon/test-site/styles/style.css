@@ -26,6 +26,11 @@ aside {
   float: right;
 }
 
+
+article p:first-of-type{
+  color: green;
+}
+
 footer {
   clear: both;
   width: 100%;
