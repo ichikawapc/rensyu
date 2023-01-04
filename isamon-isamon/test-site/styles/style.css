@@ -4,7 +4,7 @@ p, h1, li {
   width: calc(100% - 50%);
 }
 
-.tittle {
+.title {
   color: orange; 
   background-color: blue;
 }
