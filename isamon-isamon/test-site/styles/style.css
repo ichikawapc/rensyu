@@ -27,7 +27,7 @@ aside {
 }
 
 
-article:first-of-type {
+article h1:first-of-type {
   color: green;
 }
 
