@@ -14,7 +14,7 @@ body {
 }
 
 
-a[href="isamon"]{
+a[href*="isamon"]{
  color: red; 
 }
 
