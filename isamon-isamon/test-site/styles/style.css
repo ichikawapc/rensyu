@@ -27,7 +27,7 @@ aside {
 }
 
 
-article h1:first-of-type {
+article p:nth-of-type(2) {
   color: green;
 }
 
