@@ -22,6 +22,13 @@ p, li {
   width: 100%;
 }
 
+img {
+  display: block;
+  margin: 0 auto;
+}
+
+
+
 body {
   background-color: powderblue;
   padding: 20px 20px 20px 20px;
