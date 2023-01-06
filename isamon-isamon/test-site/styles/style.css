@@ -4,6 +4,17 @@ p, h1, li {
   width: calc(100% - 50%);
 }
 
+h1 {
+  font-size: 60px;
+  text-align: center;
+}
+
+p, li {
+  font-size: 16px;
+  line-height: 2;
+  letter-spacing: 1px;
+}
+
 .title {
   color: orange; 
   background-color: blue;
