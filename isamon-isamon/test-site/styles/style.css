@@ -18,6 +18,7 @@ p, li {
 .title {
   color: orange; 
   background-color: blue;
+  width: 100%;
 }
 
 body {
