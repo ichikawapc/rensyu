@@ -3,7 +3,7 @@
 p, h1, li {
   color: orange; 
   background-color: pink;
-  width: calc(100% - 50%);
+  width: calc(100% - 10%);
 }
 
 h1 {
