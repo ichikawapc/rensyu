@@ -9,7 +9,7 @@ p, h1, li {
 h1 {
   font-size: 60px;
   text-align: center;
-  text-shadow: 0px 0px 20px black;
+  text-shadow: 10px 10px 10px black;
 }
 
 p, li {
@@ -29,7 +29,7 @@ p, li {
 
 
 body {
-  width: 600px;
+  width: 1000px;
   margin: 0 auto;
   background-color: powderblue;
   padding: 20px 20px 20px 20px;
