@@ -43,3 +43,8 @@ h1 {
   color: #3eeaf0;
   text-shadow: 3px 3px 1px black;
 }
+
+img {
+  display: block;
+  margin: 0 auto;
+}
