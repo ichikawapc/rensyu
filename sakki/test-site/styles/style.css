@@ -1,4 +1,13 @@
 html {
-  font-size: 20px; /* px means "pixels": the base font size is now 10 pixels high  */
-  font-family: "M PLUS Rounded 1c"; /* this should be the rest of the output you got from Google fonts */
+  background-color: #b7dbff;
+}
+
+h1 {
+  font-size: 36px;
+  font-family: "HiraMinProN-W6";
+}
+
+p ,li {
+  font-size: 20px;
+  font-family:"ヒラギノ明朝 ProN";
 }
