@@ -5,7 +5,7 @@ h1 {
   margin: 0;
   padding: 20px 0;
   color: #0073a8;
-  text-shadow: 3px 3px 1px black;
+  text-shadow: 3px 3px 1px #d3d3d8;
 }
 
 p ,li {
@@ -14,11 +14,11 @@ p ,li {
 }
 
 body {
-  width: 900px;
+  width: 1000px;
   margin: 0 auto;
   background-color: #ffffbc;
   padding: 0 20px 20px 20px;
-  border: 5px solid black;
+  border: 3px solid #0073a8;
 }
 
 img {
