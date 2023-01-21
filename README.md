@@ -9,3 +9,4 @@
 - [umi](https://ichikawa-programming-circle.github.io/rensyu/umi/)
 - [masada](https://ichikawa-programming-circle.github.io/rensyu/masada/)
 - [unachan](https://ichikawa-programming-circle.github.io/rensyu/unagichan/test-site/)
+- [sasaramenjiro](https://ichikawa-programming-circle.github.io/rensyu/sasaramenjiro/)
