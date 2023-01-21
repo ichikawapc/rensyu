@@ -10,5 +10,5 @@
 - [masada](https://ichikawa-programming-circle.github.io/rensyu/masada/)
 - [unachan](https://ichikawa-programming-circle.github.io/rensyu/unagichan/test-site/)
 - [sasaramenjiro](https://ichikawa-programming-circle.github.io/rensyu/sasaramenjiro/test-site/)
-- [kaz](https://ichikawa-programming-circle.github.io/rensyu/kazweb/)
+- [kaz](https://ichikawa-programming-circle.github.io/rensyu/kazweb/test-site/)
 - [mune](https://ichikawa-programming-circle.github.io/rensyu/mune/test-site/)
