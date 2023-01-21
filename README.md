@@ -10,6 +10,6 @@
 - [masada](https://ichikawa-programming-circle.github.io/rensyu/masada/)
 - [unachan](https://ichikawa-programming-circle.github.io/rensyu/unagichan/test-site/)
 - [sasaramenjiro](https://ichikawa-programming-circle.github.io/rensyu/sasaramenjiro/test-site/)
-- [kazu](https://ichikawa-programming-circle.github.io/rensyu/kazuweb/test-site/)
+- [kazu](https://ichikawa-programming-circle.github.io/rensyu/kazuweb/)
 - [mune](https://ichikawa-programming-circle.github.io/rensyu/mune/test-site/)
 - [antora](https://ichikawa-programming-circle.github.io/rensyu/antora/)
