@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>カラーピッカー</title>
+<style>
+#outer{
+margin-top:20px;
+padding:50px;
+width:300px;
+background:#00F000;
+color:#000000;
+text-align:center;
+font-size:30px;
+font-weight:bold;
+}
+</style>
+</head>
+<body>
+
+<p>参考サイト：「カラーピッカーで選択した色の値をJavaScriptを使って取得・設定する」
+<a href="https://www.javadrive.jp/javascript/form/index7.html#section1" target="_blank">参照</a>
+</p>
+
+<div>
+<label><input type="color" id="colorBack">背景色</label>
+<label><input type="color" id="colorFore">文字色</label>
+</div>
+
+<div id="outer">
+Hello, JavaScript
+</div>
+
+<script>
+let outer = document.getElementById('outer');
+
+let colorBack = document.getElementById('colorBack');
+colorBack.value = "#00F000";
+colorBack.addEventListener('change', function(){
+  outer.style.background = this.value;
+});
+
+let colorFore = document.getElementById('colorFore');
+colorFore.value = "#000000";
+colorFore.addEventListener('change', function(){
+  outer.style.color = this.value;
+});
+</script>
+
+</body>
+</html>
