@@ -1,19 +1,63 @@
-p {
-  color: red;
-}
 
-li {
-  color: red;
-}
+
+
 
 h1 {
-  color: red;
+  font-size: 60px;
+  text-align: center;
+  text-shadow: 10px 10px 10px black;
+}
+
+p, li {
+  font-size: 20px;
+  line-height: 1px;
+  letter-spacing: 1px;
+}
+
+.title {
+  color: orange; 
+  background-color: blue;
+  width: 100%;
+}
+
+
+
+
+
+body {
+  width: 1000px;
+  margin: 0 auto;
+  background-color: powderblue;
+  padding: 20px 20px 20px 20px;
+  border: 5px solid black;
+  
+}
+
+
+a[href*="isamon"]{
+ color: red; 
+}
+
+
+
+
+
+article p:nth-of-type(2) {
+  color: green;
+}
+
+footer {
+  clear: both;
+  width: 100%;
+  height: 50px;
+  background-color: #89c7de;
 }
 
 
 html {
   font-size: 20px; /* px means "pixels": the base font size is now 10 pixels high  */
   font-family: "Nico Moji", sans-serif; /* this should be the rest of the output you got from Google fonts */
+  background-color: gray;
 }
 
 

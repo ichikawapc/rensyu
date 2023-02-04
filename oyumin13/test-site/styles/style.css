@@ -1,15 +1,6 @@
-p {
-  color: red;
-  width: 150px;
-}
-
-li {
-  color: black;
-}
-
 html {
-  font-size: 10px; /* px means "pixels": the base font size is now 10 pixels high  */
-  font-family: "Hannari", sans-serif; /* this should be the rest of the output you got from Google fonts */
+  font-size: 10px;
+  font-family: 'Open Sans', sans-serif;
 }
 
 
@@ -24,8 +15,9 @@ p, li {
   letter-spacing: 1px;
 }
 
+
 html {
-  background-color: #b9fa87;
+  background-color: #00539F;
 }
 
 body {
@@ -39,7 +31,7 @@ body {
 h1 {
   margin: 0;
   padding: 20px 0;
-  color: #3eeaf0;
+  color: #00539F;
   text-shadow: 3px 3px 1px black;
 }
 
