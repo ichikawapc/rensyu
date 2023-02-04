@@ -1,3 +1,18 @@
-p {
-  color: red;
+html {
+  font-size: 10px; /* px means "pixles": the base font size is now 10 pixels high  */
+  font-family: "M PLUS Rounded 1c"; /* this should be the rest of the output you got from Google fonts */
 }
+
+/* <link href="https://fonts.googleapis.com/css?family=M+PLUS+Rounded+1c" rel="stylesheet">he base font size is now 10 pixels high */
+
+h1 {
+  font-size: 60px;
+  text-align: center;
+}
+
+p {
+  font-size: 16px;
+  line-height: 2;
+  letter-spacing: 1px;
+}
+
