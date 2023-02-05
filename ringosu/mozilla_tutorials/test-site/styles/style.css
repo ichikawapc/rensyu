@@ -1,9 +1,9 @@
 p {
-  color: #B22222
+  color: #B22222;
 }
 
 html {
-  font-size: 10px; /* px means "pixels": the base font size is now 10 pixels high  */
+  font-size: 20px; /* px means "pixels": the base font size is now 10 pixels high  */
   /* font-family: "Nico Moji"; */
   background-color: #D7E9B9;
 }
@@ -19,11 +19,15 @@ body {
 h1 {
   margin: 0;
   padding: 20px 0;
-  color: #33333;
+  color: #333333;
   text-shadow: 3px 3px 1px #FAAB78;
 }
 
 img {
   display: block;
   margin: 0 auto;
+}
+
+.not-displayed {
+    display: none;
 }

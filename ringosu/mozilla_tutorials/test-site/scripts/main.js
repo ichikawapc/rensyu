@@ -1,12 +1,14 @@
 const myHeading = document.querySelector('h1');
-myHeading.textContent = 'こんにちは世界!これはjavascriptで作られた文章だよ';
+myHeading.textContent = 'リンゴスの練習場!これはjavascriptで作られた文章だよ!';
 
-let count = 1;
-let display = "Counter: " + count;
+let count = 0;
+let display = "";
+const text = document.querySelector('p#text-content').textContent;
+const len = text.length
 
 function incr() {
-    count = count + 1;
-    display = display + " "+ count
+    display = display + text[count];
+    count = (count + 1) % len;
 }
 
 function show() {
@@ -16,7 +18,7 @@ function show() {
 
 function work() {
     show();
-    const ms = 500; //500 ミリ秒
+    const ms = 10; //ミリ秒
     new Promise((resolve) => {
         setTimeout(() => {
             resolve();
