@@ -28,7 +28,7 @@ function change_image(){
 }
 
 function work() {
-    //show();
+    show();
     const ms = 3000; //3000 ミリ秒
     new Promise((resolve) => {
         setTimeout(() => {
