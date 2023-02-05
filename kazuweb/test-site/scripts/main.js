@@ -55,6 +55,7 @@ window.onload = function() {
 }
 
 
+
 document.querySelector('img').addEventListener('click', function () {
     click_count = click_count + 1;
     mongon = mongon +'痛っ!';
