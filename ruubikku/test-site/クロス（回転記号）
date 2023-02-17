@@ -1,0 +1,56 @@
+<html>
+
+  
+  <head>
+   <table border="1">
+  </head>
+  <body>
+  <img width="500px" src="images/クロス.JPG">  
+  
+  <p>完成図</p>   
+    
+  <img width="200px" src="images/q.JPG">
+    
+  <p>まず、上のようにします。</p>
+  <p>そのやり方を説明します。</p> 
+  <h2>回転記号を知っている人</h2>
+  <tr>
+    <td>Aのパターン</td><td>R</td>
+  </tr>
+  <tr>
+    <td>Bのパターン</td><td>F'</td>
+  </tr>
+  <tr>
+    <td>Cのパターン</td><td>R2</td>
+  </tr>
+  <tr>
+    <td>Dのパターン</td><td>S' R S R'</td>
+  </tr>
+  <tr>
+    <td>Eのパターン</td><td>R2 S' R S R'</td>
+  </tr>
+   </table>
+   
+　<h4>Aのパターン</h4> 
+  <link href="styles/style.css" rel="stylesheet" type="text/css">
+
+  <img width="200px" src="images/IMG_3888.JPG"> 
+   
+  </div>
+  <h4>Bのパターン</h4>
+    
+  <img width="200px" src="images/IMG_3890.JPG"> 
+  
+  <h4>Cのパターン</h4>  
+    
+  <img width="200px" src="images/IMG_3892.JPG">    
+    
+  <h4>Dのパターン</h4>  
+    
+  <img width="200px" src="images/IMG_3896.JPG">
+    
+  <h4>Eのパターン</h4>  
+    
+  <img width="200px" src="images/IMG_3901.JPG">  
+  </body>   
+ </html>
