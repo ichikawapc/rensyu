@@ -9,4 +9,9 @@ function dispMsg(){
     alert('10秒経過しました');
 }
 
-//コメント
+
+//ウェブページをクリックすると、表示する。
+document.querySelector('html').addEventListener('click', function () {
+    alert('痛っ! つつかないで!');
+  });
+  
