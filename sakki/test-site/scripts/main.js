@@ -10,7 +10,7 @@ myVariable;
 // Steveに変更する
 myVariable = 'Steve';
 
-let iceCream = 'チョコレート';
+let iceCream = 'バニラ';
 if (iceCream === 'チョコレート') {
   alert('やった、チョコレートアイス大好き！');
 } else {
