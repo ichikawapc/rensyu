@@ -30,5 +30,5 @@ multiply(20, 20);
 multiply(0.5, 3);
 
 document.querySelector('html').addEventListener('click', () => {
-  alert('痛っ! つつかないで!');
+  alert('外部サイトに移動します！');
 });
