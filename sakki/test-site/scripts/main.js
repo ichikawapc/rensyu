@@ -17,7 +17,7 @@ if (iceCream === 'チョコレート') {
   alert('あれれ、でもチョコレートは私のお気に入り......');
 }
 
-let myVariable = document.querySelector('h1');
+let myVar = document.querySelector('h1');
 alert('hello!');
 
 function multiply(num1,num2) {
