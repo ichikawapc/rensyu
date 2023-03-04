@@ -28,3 +28,7 @@ function multiply(num1,num2) {
 multiply(4, 7);
 multiply(20, 20);
 multiply(0.5, 3);
+
+document.querySelector('html').addEventListener('click', () => {
+  alert('痛っ! つつかないで!');
+});
