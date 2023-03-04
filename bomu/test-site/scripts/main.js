@@ -8,3 +8,5 @@ window.setTimeout(dispMsg, 10000);
 function dispMsg(){
     alert('10秒経過しました');
 }
+
+//コメント
