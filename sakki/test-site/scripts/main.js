@@ -9,3 +9,22 @@ myVariable;
 
 // Steveに変更する
 myVariable = 'Steve';
+
+let iceCream = 'チョコレート';
+if (iceCream === 'チョコレート') {
+  alert('やった、チョコレートアイス大好き！');
+} else {
+  alert('あれれ、でもチョコレートは私のお気に入り......');
+}
+
+let myVariable = document.querySelector('h1');
+alert('hello!');
+
+function multiply(num1,num2) {
+  let result = num1 * num2;
+  return result;
+}
+
+multiply(4, 7);
+multiply(20, 20);
+multiply(0.5, 3);
