@@ -1,6 +1,6 @@
 h1 {
   font-size: 48px;
-  font-family: "HiraMinProN-W6";
+  font-family: 'American Typewriter',sans-serif;
   text-align: center;
   margin: 0;
   padding: 20px 0;
@@ -16,7 +16,7 @@ p ,li {
 body {
   width: 1000px;
   margin: 0 auto;
-  background-color: #ffffbc;
+  background-color: #ffb6c1;
   padding: 0 20px 20px 20px;
   border: 3px solid #0073a8;
 }
