@@ -1,34 +1,19 @@
 const myHeading = document.querySelector('h1');
-myHeading.textContent = 'Hello world!';
-/*
-変数の宣言をする
-*/
-let myVariable;
-myVariable = 'Bob';
-myVariable;
+myHeading.textContent = '・・・　練習用page　・・・';
 
-// Steveに変更する
-myVariable = 'Steve';
+//変数の宣言をする
+let iceCream;
+iceCream = 'バニラ';
 
-let iceCream = 'バニラ';
 if (iceCream === 'チョコレート') {
   alert('やった、チョコレートアイス大好き！');
 } else {
-  alert('あれれ、でもチョコレートは私のお気に入り......');
+  alert('私のお気に入りは....チョコレート🍫');
 }
 
 let myVar = document.querySelector('h1');
-alert('hello!');
-
-function multiply(num1,num2) {
-  let result = num1 * num2;
-  return result;
-}
-
-multiply(4, 7);
-multiply(20, 20);
-multiply(0.5, 3);
+alert('ようこそ！練習ページへ！');
 
 document.querySelector('html').addEventListener('click', () => {
-  alert('クリックしないでください！！！');
+  alert('✋✨');
 });
