@@ -8,9 +8,15 @@ h1 {
   text-shadow: 3px 3px 1px #fffaf0;
 }
 
-p ,li {
+p {
   font-size: 20px;
-  font-family:"メイリオ";
+  font-family: "メイリオ";
+}
+
+
+li {
+  font-size: 12px;
+  font-family: "メイリオ";
 }
 
 body {
