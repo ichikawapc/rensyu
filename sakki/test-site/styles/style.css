@@ -14,7 +14,7 @@ p {
 }
 
 
-li {
+li, spot {
   font-size: 16px;
   font-family: "メイリオ";
 }
