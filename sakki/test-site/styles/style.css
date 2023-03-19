@@ -1,6 +1,6 @@
 h1 {
-  font-size: 60px;
-  font-family: 'American Typewriter',sans-serif;
+  font-size: 48px;
+  font-family: 'ヒラギノ角ゴ StdN';
   text-align: center;
   margin: 0;
   padding: 20px 0;
@@ -8,22 +8,34 @@ h1 {
   text-shadow: 3px 3px 1px #fffaf0;
 }
 
-p {
+h３　　{
+  font-size: 24px;
+  font-family: 'ヒラギノ角ゴ StdN';
+  text-align: center;
+  padding: 10px 10px;
+}
+
+h4 {
   font-size: 20px;
-  font-family: "メイリオ";
+  font-family: 'ヒラギノ丸ゴ ProN';
+}
+
+comment {
+  font-size: 20px;
+  font-family: 'ヒラギノ角ゴ StdN';
 }
 
 
 li, spot {
   font-size: 16px;
-  font-family: "メイリオ";
+  font-family: 'ヒラギノ丸ゴ ProN';
 }
 
 body {
-  width: 1000px;
+  width: 1200px;
   margin: 0 auto;
   background-color: #ffb6c1;
-  padding: 0 20px 20px 20px;
+  padding: 10px 20px;
   border: 3px solid #6495ed;
 }
 
