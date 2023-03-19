@@ -8,7 +8,7 @@ h1 {
   text-shadow: 3px 3px 1px #fffaf0;
 }
 
-h3　{
+h3 {
   font-size: 32px;
   font-family: 'ヒラギノ角ゴ StdN';
   text-align: center;
@@ -20,13 +20,13 @@ h4 {
   font-family: 'ヒラギノ丸ゴ ProN';
 }
 
-comment {
+p.comment {
   font-size: 20px;
   font-family: 'ヒラギノ角ゴ StdN';
 }
 
 
-li, spot {
+li, p.spot {
   font-size: 16px;
   font-family: 'ヒラギノ丸ゴ ProN';
 }
