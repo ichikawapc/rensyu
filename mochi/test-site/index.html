@@ -4,6 +4,18 @@
     <meta charset="utf-8">
     <title>"もち"の練習ページ_test</title>
     <link href="styles/style.css" rel="stylesheet" type="text/css">
+	<title>テキストを動かす</title>
+	<style>
+		@keyframes move {
+			from { transform: translateX(0); }
+			to { transform: translateX(100px); }
+		}
+
+		.moving-text {
+			animation: move 2s infinite;
+		}
+	</style>    
+    
   </head>
   <body>
     <h1>自己紹介</h1>
@@ -17,20 +29,9 @@
 
     <p><a href="https://www.sbisec.co.jp/ETGate">SBI証券のページ</a>こちら</p>
     <p></p>
-　　<marquee behavior="scroll" direction="right">テキストをスクロールする</marquee>
+    
+    <div class="moving-text">テキストを動かす</div>
 
-    <style>
-  @keyframes move {
-    from { transform: translateX(0); }
-    to { transform: translateX(100px); }
-  }
-
-  .moving-text {
-    animation: move 2s infinite;
-  }
-</style>
-
-<div class="moving-text">テキストを動かす</div>
     
     <p><a href="https://ichikawa-programming-circle.github.io/website/">市川プログラミングサークル</a>もみてね。</p>
   </body>
