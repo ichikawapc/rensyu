@@ -19,6 +19,19 @@
     <p></p>
 　　<marquee behavior="scroll" direction="right">テキストをスクロールする</marquee>
 
+    <style>
+  @keyframes move {
+    from { transform: translateX(0); }
+    to { transform: translateX(100px); }
+  }
+
+  .moving-text {
+    animation: move 2s infinite;
+  }
+</style>
+
+<div class="moving-text">テキストを動かす</div>
+    
     <p><a href="https://ichikawa-programming-circle.github.io/website/">市川プログラミングサークル</a>もみてね。</p>
   </body>
 </html>
