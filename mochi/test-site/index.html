@@ -15,12 +15,23 @@
 			animation: move 2s infinite;
 		}
 	</style>    
-    
+	<title>徐々に文字を拡張する</title>
+	<style>
+		.expanding-text {
+			animation: expand 2s ease-in-out forwards;
+			font-size: 20px;
+		}
+
+		@keyframes expand {
+			from { font-size: 0; }
+			to { font-size: 50px; }
+		}
+	</style>    
   </head>
   <body>
     <h1>自己紹介</h1>
     <img src="images/test.png" alt="このアイコン画像が見れない人向けのテキストやで_12345">
-
+	
     <ul>
       <li>項目：１</li>
       <li>項目：２</li>
@@ -28,6 +39,7 @@
     </ul>
 
     <p><a href="https://www.sbisec.co.jp/ETGate">SBI証券のページ</a>こちら</p>
+　　<p class="expanding-text">徐々に文字を拡張する</p>
     <p></p>
     
     <div class="moving-text">テキストを動かす</div>
