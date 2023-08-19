@@ -1,5 +1,7 @@
 # 練習用のリポジトリだよ
 
+リポジトリ: https://github.com/ichikawapc/rensyu/
+
 # 確認方法
 ### index.htmlのファイルの内容が見れます。
 - [isamon-isamon](https://ichikawapc.github.io/rensyu/isamon-isamon/)
