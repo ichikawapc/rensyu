@@ -17,3 +17,4 @@
 - [antora](https://ichikawapc.github.io/rensyu/antora/)
 - [ruubikku](https://ichikawapc.github.io/rensyu/ruubikku/test-site/)
 - [sassa](https://ichikawapc.github.io/rensyu/sassa/test-site)
+- [makkuroshippo](https://ichikawapc.github.io/rensyu/makkuroshippo/test-site/)
