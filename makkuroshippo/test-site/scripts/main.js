@@ -3,6 +3,6 @@ myHeading.textContent = "Hello world!";
 
 alert("Hi! :o");
 
-document.querySelector("html").addEventListener("click", () => {
+document.querySelector("index.html").addEventListener("click", () => {
   alert("呼んだ?:)");
 });
