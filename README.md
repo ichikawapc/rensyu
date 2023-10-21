@@ -18,3 +18,4 @@
 - [ruubikku](https://ichikawapc.github.io/rensyu/ruubikku/test-site/)
 - [sassa](https://ichikawapc.github.io/rensyu/sassa/)
 - [makkuroshippo](https://ichikawapc.github.io/rensyu/makkuroshippo/test-site/)
+- [rin-web-side](https://ichikawapc.github.io/rensyu/rinrin/test-site)
