@@ -1,5 +1,7 @@
 # 練習用のリポジトリだよ
 
+リポジトリ: https://github.com/ichikawapc/rensyu/
+
 # 確認方法
 ### index.htmlのファイルの内容が見れます。
 - [isamon-isamon](https://ichikawapc.github.io/rensyu/isamon-isamon/)
@@ -14,3 +16,8 @@
 - [mune](https://ichikawapc.github.io/rensyu/mune/test-site/)
 - [antora](https://ichikawapc.github.io/rensyu/antora/)
 - [ruubikku](https://ichikawapc.github.io/rensyu/ruubikku/test-site/)
+- [sassa](https://ichikawapc.github.io/rensyu/sassa/)
+- [makkuroshippo](https://ichikawapc.github.io/rensyu/makkuroshippo/test-site/)
+- [rin-web-side](https://ichikawapc.github.io/rensyu/rinrin/test-site)
+- [minami](https://ichikawapc.github.io/rensyu/minami/)
+- [igu](https://ichikawapc.github.io/rensyu/igu/)
