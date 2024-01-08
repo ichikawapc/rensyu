@@ -35,7 +35,8 @@ h1 {
   text-shadow: 3px 3px 1px black;
 }
 
-img {
+.nametag {
   display: block;
+  width: 60%;
   margin: 0 auto;
 }
