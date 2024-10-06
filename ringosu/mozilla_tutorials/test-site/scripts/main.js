@@ -32,4 +32,7 @@ function work() {
 
 window.onload = function() {
     work();
+    document.querySelector('html').addEventListener('click', function () {
+        alert('痛っ! つつかないで!');
+    });
 }
