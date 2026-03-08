@@ -21,3 +21,4 @@
 - [rin-web-side](https://ichikawapc.github.io/rensyu/rinrin/test-site)
 - [minami](https://ichikawapc.github.io/rensyu/minami/)
 - [igu](https://ichikawapc.github.io/rensyu/igu/)
+- [ahirunekoinu](https://ichikawapc.github.io/rensyu/ahirunekoinu/)
